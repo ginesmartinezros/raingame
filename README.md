@@ -5,10 +5,17 @@ You can choose the difficulty of the game with the slider
 
 Design by Maria Martinez: (Instagram) @mariamartinezrrs
 
-Provided is the `.jar` and a compiled `.exe`
 To run the game, write in a command line
 
-`java -jar .\raingame.jar`
+* Windows
+
+`java -jar .\raingame_windows.jar`
+
+Also, please find provided an `.exe` file
+
+* MacOS
+
+`java -jar .\raingame_mac.jar`
 
 If you want to compile the proyect by yourself, please note that the main class is `Game.java`
 
